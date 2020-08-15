@@ -5,6 +5,8 @@ Simple script that organizes a directory.
 
 On script run asks user to enter the PATH to be organized, then sorts the directory based on file extension.
 
+Python must be installed!
+
 How to use:
 
 Open command prompt and go to the Directory where script is stored in.
