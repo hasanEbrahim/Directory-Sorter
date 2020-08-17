@@ -1,5 +1,5 @@
 # Directory-Sorter
-Script that sorts directory based on file extension (*.exe).
+Script that sorts directory based on file extension.
 
 Simple script that organizes a directory.
 
